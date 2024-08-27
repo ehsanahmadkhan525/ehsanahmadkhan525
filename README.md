@@ -2,12 +2,12 @@
 <p>Innovative and dynamic <b>Artificial Intelligence Engineer</b> with a proven track record in leveraging AI and Machine/Deep Learning techniques to develop impactful data-driven solutions. My skill set includes:</p>
 
 <ul>
+   <li>✅ <b>AI:</b> Langchain, OpenAI, Hugging Face, Transformers, Ollama, CrewAI, Pinecone, Qdrant, Chroma, Faiss, LangSmith</li>
+    <li>✅ <b>Data Science & ML:</b> Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK, SpaCy</li>
+    <li>✅ <b>Key Domains:</b> Regression, Classification, NLP, LLM, RAG, TTS, STT, Voice Cloning, RVC, Computer Vision, Time Series, Neural Networks, PCA, Clustering, Dimensionality Reduction, Anomaly Detection</li>
   <li>✅ <b>Data Visualization & Analytics:</b> Power BI, Matplotlib, Seaborn, Plotly, Streamlit, Gradio</li>
   <li>✅ <b>Web Scraping:</b> BeautifulSoup, Scrapy, Selenium, Playwright</li>
   <li>✅ <b>Maths and Statistics:</b> SciPy</li>
-  <li>✅ <b>Data Science & ML:</b> Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK, SpaCy</li>
-  <li>✅ <b>AI:</b> Langchain, OpenAI, Hugging Face, Transformers, Ollama, CrewAI, Pinecone, Qdrant, Chroma, Faiss, LangSmith</li>
-  <li>✅ <b>Key Domains:</b> Regression, Classification, NLP, LLM, RAG, TTS, STT, Voice Cloning, RVC, Computer Vision, Time Series, Neural Networks, PCA, Clustering, Dimensionality Reduction, Anomaly Detection</li>
   <li>✅ <b>Data Engineering:</b>  SQL</li>
   <li>✅ <b>MLOps:</b> Docker, Kubernetes</li>
   <li>✅ <b>APIs:</b> Flask, FastAPI, AWS API Gateway</li>
