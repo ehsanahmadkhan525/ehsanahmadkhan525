@@ -8,7 +8,7 @@
   <li>✅ <b>Data Science & ML:</b> Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK, SpaCy</li>
   <li>✅ <b>AI:</b> Langchain, OpenAI, Hugging Face, Transformers, Ollama, CrewAI, Pinecone, Qdrant, Chroma, Faiss, LangSmith</li>
   <li>✅ <b>Key Domains:</b> Regression, Classification, NLP, LLM, RAG, TTS, STT, Voice Cloning, RVC, Computer Vision, Time Series, Neural Networks, PCA, Clustering, Dimensionality Reduction, Anomaly Detection</li>
-  <li>✅ <b>Data Engineering:</b> dbt, Terraform, SQL, BigQuery, PySpark</li>
+  <li>✅ <b>Data Engineering:</b>  SQL</li>
   <li>✅ <b>MLOps:</b> Docker, Kubernetes</li>
   <li>✅ <b>APIs:</b> Flask, FastAPI, AWS API Gateway</li>
   <li>✅ <b>Cloud Platforms:</b> GCP, AWS, Azure, Datacrunch, Vast.ai</li>
